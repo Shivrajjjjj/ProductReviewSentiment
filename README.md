@@ -13,8 +13,11 @@ This project is a .NET 8.0 MVC web application that uses **Gemini Text Analytics
 ## NuGet Packages
 
 -dotnet add package Azure.AI.TextAnalytics --version 5.3.0
+
 -dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
 -dotnet add package Microsoft.EntityFrameworkCore.Tools
+
 -dotnet add package Microsoft.EntityFrameworkCore.Design
 
 ## 🚀 Features
